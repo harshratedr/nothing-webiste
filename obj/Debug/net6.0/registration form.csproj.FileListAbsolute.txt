@@ -1,0 +1,26 @@
+C:\registration form\bin\Debug\net6.0\appsettings.Development.json
+C:\registration form\bin\Debug\net6.0\appsettings.json
+C:\registration form\bin\Debug\net6.0\registration form.staticwebassets.runtime.json
+C:\registration form\bin\Debug\net6.0\registration form.exe
+C:\registration form\bin\Debug\net6.0\registration form.deps.json
+C:\registration form\bin\Debug\net6.0\registration form.runtimeconfig.json
+C:\registration form\bin\Debug\net6.0\registration form.dll
+C:\registration form\bin\Debug\net6.0\registration form.pdb
+C:\registration form\obj\Debug\net6.0\registration form.csproj.AssemblyReference.cache
+C:\registration form\obj\Debug\net6.0\registration form.GeneratedMSBuildEditorConfig.editorconfig
+C:\registration form\obj\Debug\net6.0\registration form.AssemblyInfoInputs.cache
+C:\registration form\obj\Debug\net6.0\registration form.AssemblyInfo.cs
+C:\registration form\obj\Debug\net6.0\registration form.csproj.CoreCompileInputs.cache
+C:\registration form\obj\Debug\net6.0\registration form.MvcApplicationPartsAssemblyInfo.cache
+C:\registration form\obj\Debug\net6.0\registration form.RazorAssemblyInfo.cache
+C:\registration form\obj\Debug\net6.0\registration form.RazorAssemblyInfo.cs
+C:\registration form\obj\Debug\net6.0\staticwebassets.build.json
+C:\registration form\obj\Debug\net6.0\staticwebassets.development.json
+C:\registration form\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\registration form\obj\Debug\net6.0\scopedcss\bundle\registration form.styles.css
+C:\registration form\obj\Debug\net6.0\scopedcss\projectbundle\registration form.bundle.scp.css
+C:\registration form\obj\Debug\net6.0\registration form.dll
+C:\registration form\obj\Debug\net6.0\refint\registration form.dll
+C:\registration form\obj\Debug\net6.0\registration form.pdb
+C:\registration form\obj\Debug\net6.0\registration form.genruntimeconfig.cache
+C:\registration form\obj\Debug\net6.0\ref\registration form.dll
