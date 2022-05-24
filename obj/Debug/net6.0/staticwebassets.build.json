@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "aXxHnMrAtd8f9S2C/nn5jsIJhpiaABt/ykR2cPydllw=",
+  "Hash": "8fjwJ2n2L8B7Tud5XAxXdkffbyH1zETlH4eS2jwfCm4=",
   "Source": "registration form",
   "BasePath": "_content/registration form",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\registration form\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\registration form.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\registration form\\wwwroot\\bg.jpg",
+      "SourceId": "registration form",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\registration form\\wwwroot\\",
+      "BasePath": "_content/registration form",
+      "RelativePath": "bg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\bg.jpg"
     },
     {
       "Identity": "C:\\registration form\\wwwroot\\css\\site.css",
@@ -1069,6 +1086,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\registration form\\wwwroot\\qq.jpg",
+      "SourceId": "registration form",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\registration form\\wwwroot\\",
+      "BasePath": "_content/registration form",
+      "RelativePath": "qq.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\qq.jpg"
     }
   ]
 }

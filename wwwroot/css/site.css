@@ -7,12 +7,16 @@ html {
     font-size: 16px;
   }
 }
+body {
+    background-image: url("../qq.jpg")
+}
 
 html {
-  position: relative;
+  position: center;
   min-height: 100%;
 }
 
 body {
   margin-bottom: 60px;
+  position: center;
 }

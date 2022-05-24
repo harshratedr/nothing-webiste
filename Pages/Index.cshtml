@@ -5,34 +5,31 @@
 }
    
 
-<div class="text-center">
-    <body style="background-color:wheat;"></body>
-    <h1 class="display-4"><b>Welcome</b></h1>
-    <p>Made by <a href="https://github.com/harshratedr">Harsh Nagwanshi</a></p>
-</div>
-<h3>User Registration Form</h3>
+<center><body ></body>
+<h1 class="display-4"><b>Welcome</b></h1>
+<p>Made by <a href="https://github.com/harshratedr" style="text-decoration:initial;">Harsh Nagwanshi</a></p>
+<h3>User Registration Form</h3></center>
 
 
 
 @if(Model.hasdata)
 {
-    <p>Hello User @Model.firstName @Model.lastName</p>
-    <p>we recieved your following Message, we will contact you shortly on your registered mail id @Model.email:</p>
-    <p>@Model.message</p>
+   <center><b><p>Hello @Model.firstName @Model.middleName @Model.lastName</p>
+    <p>we recieved your following Message, we will contact you shortly on your registered Email @Model.email:</p>
+    <p>@Model.message</p></b></center>
 }
 
-<div class="container">
-    <div class="text-center"></div>
+<div class="container" style="">
     <form method="post">
 
-             <label for="Mr">Mr</label> <input type="radio" id="Mr" name="head" value="Mr"> <label for="Ms">Ms</label> <input type="radio" id="Ms" name="head" value="Ms"> <label for="Mrs">Mrs</label> <input type="radio" id="Mrs" name="head" value="Mrs"><br>             
+         <center><h6><label for="Mr">Mr</label> <input type="radio" id="Mr" name="head" value="Mr"> <label for="Ms">Ms</label> <input type="radio" id="Ms" name="head" value="Ms"> <label for="Mrs">Mrs</label> <input type="radio" id="Mrs" name="head" value="Mrs"><br></h6>             
                           
              
               
 
 
-        <label for="fname">First Name</label><br>
-        <input type="text" id="fname" name="firstname"><br>
+         <h5><label for="fname">First Name</label><br>
+        <input type="text" id="fname"  name="firstname"><br>
 
         <label for="mname">Middle Name</label><br>
         <input type="text" id="mname" name="middlename"><br>
@@ -47,16 +44,16 @@
         <input type="email" id="Email " name="Email"><br>
 
         <label for="phone">Enter a Phone Number</label><br>
-        <input type="tel" id="phone" name="phone"  placeholder="123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required>
-        <small>Format: 123-456-7890</small><br>
+        <input type="tel" id="phone" name="phone"  placeholder="         123-456-7890" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}" required><br>
+        
 
         <label for="Your city">Your City</label><br>
         <input type="text" id="your city " name="your city"><br>
 
         <label for="message">Message</label><br>
-        <textarea id="message" name="message" style="height:200px" placeholder="type something..."></textarea><br>
+        <textarea id="message" name="message" style="height:200px" placeholder="  type something..."></textarea><br></h5>
 
-        <input type="submit" value="Submit">         <input type="reset" value="Reset">
+        <h5><input type="submit" value="Submit">         <input type="reset" value="Reset"></h5></center>
 
 
     </form>
